@@ -14,6 +14,7 @@ In June of 2021 mBlock introduced the new mBot Neo, also known as the mBot2. Thi
 |Machine Learning|No|Yes|Inference on input signals|
 |Precise Movement|No|Yes|Wheel movement feedback|
 |Remote Controller|No|Yes|Distracts kids from learning computational thinking|
+|Display|None|1.4" color on remote|Nice for menus and prompts|
 
 ## Mbot2 Motors
 
