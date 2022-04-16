@@ -1,4 +1,4 @@
-site_name: MBot
+site_name: CoderDojo Twin Cities mBot Lessons
 nav:
   - Introduction: 
     - Getting Started: intro/01-intro.md
