@@ -6,7 +6,7 @@ In June of 2021 mBlock introduced the new mBot Neo, also known as the mBot2. Thi
 
 |Feature|Original mBot|New mBot2 (Neo)|Notes|
 |--|--|--|--|
-|List Price|$59.99|$129.99||
+|Original List Price|$60|$130 to $169||
 |Battery|4 AA|Rechargeable||
 |Code|Blocks and C|Blocks, C and MicroPython||
 |Wireless Network|None|Yes|Allows robot-to-robot communication|
@@ -15,5 +15,9 @@ In June of 2021 mBlock introduced the new mBot Neo, also known as the mBot2. Thi
 |Precise Movement|No|Yes|Wheel movement feedback|
 |Remote Controller|No|Yes|Distracts kids from learning computational thinking|
 
+[Link to $72 mBot On Amazon](https://www.amazon.com/Makeblock-Mechanical-Entry-Level-Programming-Creativity/dp/B00SK5RUQY)
 
 Here is [Link on Amazon](https://www.amazon.com/Makeblock-Scratch-Programming-Building-Technology/dp/B0919F9CKS/ref=sr_1_5)
+
+You can also purchase a $165 with a Bluetooth Wireless Remote Controller:
+[Link to Amazon Web Site](https://www.amazon.com/Makeblock-Educational-Controller-Programming-Technology/dp/B0962Z216S)
