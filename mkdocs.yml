@@ -1,5 +1,4 @@
-site_name: My Docs
-
+site_name: MBot
 nav:
   - Basics:
     - Introduction: basics/00-intro.md
@@ -18,14 +17,14 @@ nav:
     - Line Follower: basics/10-line-follower.md
     - Collision Avoidance LED Status: basics/11-collision-avoidance-led-status.md
     - Cliff Detection: basics/12-cliff-detection.md
-- Glossary: glossary.md
-- References: references.md
-- Contact: contact.md
+  - Glossary: glossary.md
+  - References: references.md
+  - Contact: contact.md
 
-site_description: 'Resources for teaching MicroPython to CoderDojo Twin Cities students.  All content licensed Creative Commons ShareAlike Attribution Noncommercial'
+site_description: 'Resources for teaching Mbot to CoderDojo Twin Cities students.  All content licensed Creative Commons ShareAlike Attribution Noncommercial'
 site_author: 'Dan McCreary'
 repo_name: 'GitHub Repo'
-repo_url: 'https://github.com/CoderDojoTC/micropython'
+repo_url: 'https://github.com/CoderDojoTC/mbot'
 
 # CoderDojo Standards from here down
 edit_uri: 'blob/master/docs'
