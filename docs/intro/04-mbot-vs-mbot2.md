@@ -15,6 +15,12 @@ In June of 2021 mBlock introduced the new mBot Neo, also known as the mBot2. Thi
 |Precise Movement|No|Yes|Wheel movement feedback|
 |Remote Controller|No|Yes|Distracts kids from learning computational thinking|
 
+## Mbot2 Motors
+
+MBot2 uses two high speed DC motor encoders capable of up to 200RPM and stopping accuracy of ±0.05 degrees. At just 1500 gcm (1.5kg/cm), the DC motors produce twice as much torque as the original mBot, enabling quicker acceleration and pulling power to drive mBot2 with ease without any struggle. The motor components (stator and shaft) are built inside a metal housing. 
+
+Being DC motor encoders, they use a closed-loop system design, which means you can precisely measure, monitor, and control the speed and acceleration of the motors across the RPM range from 1 RPM all the way to 200 RPM. The original mBot could not do this. 
+
 [Link to $72 mBot On Amazon](https://www.amazon.com/Makeblock-Mechanical-Entry-Level-Programming-Creativity/dp/B00SK5RUQY)
 
 Here is [Link on Amazon](https://www.amazon.com/Makeblock-Scratch-Programming-Building-Technology/dp/B0919F9CKS/ref=sr_1_5)
