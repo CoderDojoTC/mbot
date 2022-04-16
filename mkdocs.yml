@@ -4,6 +4,7 @@ nav:
     - Getting Started: intro/01-intro.md
     - Instructor's Guide: intro/02-instructors-guide.md
     - Concept Cards: intro/03-concept-cards.md
+    - mBot vs mBot2: intro/04-mbot-vs-mbot2.md
   - Desktop Labs:
     - Set LED Color: basics/01-set-led-color.md
     - Blink: basics/02-blink.md
@@ -21,6 +22,8 @@ nav:
     - Line Follower: basics/10-line-follower.md
     - Collision Avoidance LED Status: basics/11-collision-avoidance-led-status.md
     - Cliff Detection: basics/12-cliff-detection.md
+  - Advanced Labs:
+    - Functions: advanced/01-functions.md
   - Glossary: glossary.md
   - References: references.md
   - Contact: contact.md
