@@ -10,4 +10,4 @@ mBot on, press the mode button twice.  Then place the mBot on the figure
 ![Line Follower Test](../img/line-followers.png)
 
 ### Line Follower Full
-![Line Follower Full](./img/line-followers.png)
+![Line Follower Full](../img/line-follower-2.png)
