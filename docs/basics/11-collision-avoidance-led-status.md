@@ -9,4 +9,4 @@ before it randomly turns.  Update the LED colors to show the state of the car:
 4. Purple - randomly turning
 
 
-![Collision Avoidance LED Status](./img/collision-avoidance.png)
+![Collision Avoidance LED Status](../img/collision-avoidance.png)

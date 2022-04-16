@@ -11,10 +11,10 @@ In the example below, the quotes are around the block name and the block paramet
 4. Add a second wait 1 second block under that
 
 ## Sample Program
-![Blink](./img/blink.png)
+![Blink](../img/blink.png)
 
 ## Sample GIF Image
-![Blink GIF](./img/blink.gif)
+![Blink GIF](../img/blink.gif)
 
 ## Blink example on Mblock site
 [https://www.mblock.cc/example/blink/](https://www.mblock.cc/example/blink/)

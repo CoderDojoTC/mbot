@@ -17,11 +17,11 @@ Now press the "Space" bar on the keyboard.  The block should briefly flash
 with a yellow border so you know that the block event has been triggered.
 
 ## Sample Block Diagram
-![Alternte Blink LED](./img/left-right-led.png)
+![Alternate Blink LED](../img/left-right-led.png)
 
 ## Experiments
 
 
 1. Can you make the left and right lights alternate?  What happens when you change the "Set LED on board" from "All" to be "Right" or "Left".
 
-![Alternate Blink](./img/alternate-blink.gif)
+![Alternate Blink](../img/alternate-blink.gif)

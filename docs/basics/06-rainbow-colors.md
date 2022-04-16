@@ -1,3 +1,3 @@
 # Rainbow Colors
 
-![Rainbow Colors](./img/rainbow-colors.png)
+![Rainbow Colors](../img/rainbow-colors.png)

@@ -8,5 +8,5 @@ Our first program will set the color of the LEDs on top of the mBot to red.
 3. Click the "Connect" menu and check that you have a green dot on the mBlock area
 
 ## Sample program
-![Set LED Color](./img/set-led-color.png)
+![Set LED Color](../img/set-led-color.png)
 

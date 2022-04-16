@@ -7,7 +7,7 @@ mBot on, press the mode button twice.  Then place the mBot on the figure
 ## Sample Block Programs
 
 ### Change LED From Sensor
-![Line Follower Test](./img/line-followers.png)
+![Line Follower Test](../img/line-followers.png)
 
 ### Line Follower Full
 ![Line Follower Full](./img/line-followers.png)

@@ -14,7 +14,7 @@ top LED lights turn green after pressing the mode switch from the default white 
 
 
 ## Block Diagram
-![Collision Avoidance](./img/collision-avoidance.png)
+![Collision Avoidance](../img/collision-avoidance.png)
 
 ## mBot Links and Video
 * [mBlock example site](https://www.mblock.cc/example/avoid-barriers/)

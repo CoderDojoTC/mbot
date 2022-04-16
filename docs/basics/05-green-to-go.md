@@ -5,7 +5,7 @@ forever block.  The condition will be the if ultrasonic sensor less than 15.
 
 ## Sample Block Program
 
-![Green to Go](./img/green-means-go.png)
+![Green to Go](../img/green-means-go.png)
 
 ## Experiments
 1. Can you change the LEDs to be different colors?

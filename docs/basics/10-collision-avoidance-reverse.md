@@ -4,4 +4,4 @@ Take the collision avoidance lab and when it senses and object in front of it, m
 before it randomly turns.
 
 
-![Collision Avoidance Random](./img/collision-avoidance.png)
+![Collision Avoidance Random](../img/collision-avoidance.png)

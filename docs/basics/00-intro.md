@@ -1,9 +1,9 @@
 ## Introduction to mBot
 
-In these lessions plans we will learn some basic principals of computer science using the mBot robot.  These lessons are ideal for students that have not mastered keyboarding skills but still would like to program their own robot.
+In these lessons plans we will learn some basic principals of computer science using the mBot robot.  These lessons are ideal for students that have not mastered keyboarding skills but still would like to program their own robot.
 
 ## Order of Labs
-We start out with Desktop labs that don't use the motors.  This is because motors drain the batteries and if the students are not careful the mBot will fall off the desks and break.  It is only **AFTER** our students master the initial skills that we enable the motor labs which are done while the mBot is on the floor.  We strongly discorage motor labs when the mBot is not on the floor.
+We start out with Desktop labs that don't use the motors.  This is because motors drain the batteries and if the students are not careful the mBot will fall off the desks and break.  It is only **AFTER** our students master the initial skills that we enable the motor labs which are done while the mBot is on the floor.  We strongly discourage motor labs when the mBot is not on the floor.
 
 ### Desktop Labs
 Our first labs will verify that the mBot is hooked up correctly and that our students can change the color of the LED on top of the mBot.  We then will introduce the repeat block to make the LEDs flash on and off or change colors.
@@ -18,5 +18,5 @@ is then used to turn the robot when an object is in front of the robot.
 We then make the robot reverse and turn in a random direction when it sees
 an object in front of the robot.
 
-# mBot Video tutorials
-[](https://www.youtube.com/playlist?list=PLuuf1TKEkEqQ9_2hGTHx5XRxlyTOVUJzS)
+# mBot Video Tutorials
+[YouTube Video Tutorials](https://www.youtube.com/playlist?list=PLuuf1TKEkEqQ9_2hGTHx5XRxlyTOVUJzS)

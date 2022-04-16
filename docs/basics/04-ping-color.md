@@ -1,4 +1,4 @@
 # Conditional Ping
 
 
-![Blink](./img/conditional-ping.png)
+![Blink](../img/conditional-ping.png)
