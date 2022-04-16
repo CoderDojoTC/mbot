@@ -1,6 +1,6 @@
 # CoderDojo Twin Cities MBot Microsite
 
-![](img/mbot.png){: style="height:150px}
+![](img/mbot.png){: style="height:150px"}
 
 ## About the mBot
 
