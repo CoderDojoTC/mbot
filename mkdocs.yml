@@ -1,7 +1,10 @@
 site_name: MBot
 nav:
-  - Basics:
-    - Introduction: basics/00-intro.md
+  - Introduction: 
+    - Getting Started: intro/01-intro.md
+    - Instructor's Guide: intro/02-instructors-guide.md
+    - Concept Cards: intro/03-concept-cards.md
+  - Desktop Labs:
     - Set LED Color: basics/01-set-led-color.md
     - Blink: basics/02-blink.md
     - Alternate Blink: basics/03-alternate-blink.md
@@ -9,6 +12,7 @@ nav:
     - Random Color: basics/04-random-color.md
     - Green To Go: basics/05-green-to-go.md
     - Rainbow Color: basics/06-rainbow-colors.md
+  - Floor Labs:
     - Drive Square: basics/07-drive-square.md
     - Collision Avoidance: basics/08-collision-avoidance.md
     - Dance: basics/08-dance.md
