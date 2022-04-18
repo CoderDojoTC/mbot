@@ -8,3 +8,7 @@ We can also send our new function parameters so that it can customize the behavi
 
 ## Sample Program
 TBD
+
+## References
+
+[Make a Block on MBlock Reference Page](https://www.mblock.cc/doc/en/block-reference/DIY.html)
